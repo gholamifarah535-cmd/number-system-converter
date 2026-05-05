@@ -1,17 +1,13 @@
-# Number System Converter in C
+# Number System Converter
 
-## 📌 Description
-This project is a simple number system converter developed in C programming language.  
-It converts a given decimal number into different numeral systems.
+Small C program that converts decimal numbers.
 
-## ⚙️ Features
-- Convert decimal numbers to binary
-- Convert decimal numbers to octal
-- Convert decimal numbers to hexadecimal
-- Display all results for a given input number
+## Features
+- Decimal to binary
+- Decimal to octal
+- Decimal to hexadecimal
 
-## 🧠 Concepts Used
-- Conditional logic
-- Loops (for / while)
-- Number system conversion
-- Basic arithmetic operations
+## Notes
+Made using loops and basic C logic.
+
+Author: Farah Gholami
