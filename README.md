@@ -10,4 +10,4 @@ Small C program that converts decimal numbers.
 ## Notes
 Made using loops and basic C logic.
 
-Author: Farah Gholami
+Author: Farrah Gholami
